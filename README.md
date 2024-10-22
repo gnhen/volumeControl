@@ -1,4 +1,4 @@
-#Volume Control
+# Volume Control
 
 This repository includes an **EXE** file and a **PY** file. The PY file is the raw code that I created for this project, and the EXE is the fully packaged file.
 
